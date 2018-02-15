@@ -1,4 +1,4 @@
-# React Redux SimpleStarter
+# React Redux Youtube
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
@@ -10,8 +10,8 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 ### Installation
 
 ```
-> git clone https://github.com/fibanez6/React-Redux-SimpleStarter.git
-> cd React-Redux-SimpleStarter
+> git clone https://github.com/fibanez6/React-Redux-Youtube.git
+> cd React-Redux-Youtube.git
 > npm install
 > npm start
 ```
