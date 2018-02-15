@@ -1,6 +1,8 @@
 # React Redux Youtube
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+React tutorial[Redux](https://www.udemy.com/react-redux/)?
+
+This project cover section 1 and 2 of the tutorial.
 
 ### IMPORTANT
 
