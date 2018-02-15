@@ -10,8 +10,8 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 
 ### Installation
 ```
-> git clone https://github.com/fibanez6/React-Redux-Youtube.git
-> cd React-Redux-Youtube.git
+> git clone https://github.com/fibanez6/React-Youtube.git
+> cd React-Youtube.git
 > npm install
 > npm start
 ```
