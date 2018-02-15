@@ -1,6 +1,6 @@
 # React Youtube
 
-[React tutorial](https://www.udemy.com/react-redux/)?
+[React tutorial](https://www.udemy.com/react-redux/) to search and watch videos from Youtube.
 
 This project cover section 1 and 2 of the tutorial.
 
@@ -8,9 +8,7 @@ This project cover section 1 and 2 of the tutorial.
 
 This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)
 
-
 ### Installation
-
 ```
 > git clone https://github.com/fibanez6/React-Redux-Youtube.git
 > cd React-Redux-Youtube.git
