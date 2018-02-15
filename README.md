@@ -1,6 +1,6 @@
-# React Redux Youtube
+# React Youtube
 
-React tutorial[Redux](https://www.udemy.com/react-redux/)?
+[React tutorial](https://www.udemy.com/react-redux/)?
 
 This project cover section 1 and 2 of the tutorial.
 
