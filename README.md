@@ -15,4 +15,4 @@ This project was cloned from [StephenGrider/ReduxSimpleStarter](https://github.c
 > npm install
 > npm start
 ```
-And set your Youtube Api Key api key into the [main file](src/index.js#L9)
+And set your Youtube Api Key in the [main file](src/index.js#L9)
