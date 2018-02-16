@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 
-const API_KEY = 'AIzaSyCNctSw4Y_ZcK4lbs604SDCRneVhOeJ5vs';
+const API_KEY = 'your-Youtube-APi-key';
 
 // Create a new component. This component should produce some html.
 class App extends Component {
