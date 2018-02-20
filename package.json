@@ -4,6 +4,9 @@
   "description": "search and watch videos from Youtube",
   "main": "index.js",
   "repository": "git@github.com:fibanez6/React-Youtube.git",
+  "engines": {
+    "node": "8.9.4"
+  },
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
